@@ -1,0 +1,361 @@
+UPDATE ON
+POLYP
+SURVEILLANCE
+GUIDELINES
+
+2024 Citation: Te Aho O Te Kahu. 2024. Update on Polyp Surveillance Guidelines. Wellington: Te Aho o Te Kahu.
+Published in June 2024 by Te Aho o Te Kahu in partnership with the Ministry of
+Health, PO Box 5013, Wellington 6140, New Zealand
+ISBN 978-1-99-002973-8 (online)
+HP 7539
+
+This document is available at teaho.govt.nz and health.govt.nz
+
+This work is licensed under the Creative Commons Attribution 4.0 International
+licence. In essence, you are free to: share ie, copy and redistribute the material in any
+medium or format; adapt ie, remix, transform and build upon the material. You must
+give appropriate credit, provide a link to the licence and indicate if changes were
+made.
+
+CONTENTS
+
+Introduction 1
+Purpose of this advice 3
+Audience for these guidelines 3
+Associated documents 4
+Equity 4
+Notes on clinical context 5
+Polyp risk categories 5
+Polyp Surveillance Guidance 2024 6
+Definitions 8
+High-quality colonoscopy 8
+High-quality polypectomy 8
+Boston Bowel Preparation Scale 9
+Serrated Polyposis Syndrome 9
+Referral criteria to the New Zealand Familial Gastrointestinal Cancer
+Service 10
+Serrated Polyposis Syndrome 10
+Multiple adenoma 10
+References 12
+
+List of Tables
+Table 1: Associated documents 4
+Table 2: Polyp risk categories 5
+
+List of Figures
+Figure 1: Surveillance intervals based on findings at high-quality colonoscopy 6
+
+INTRODUCTION
+
+Te Aho o Te Kahu, the Cancer Control Agency (TAoTK) in partnership with the National
+Screening Unit, Ministry of Health (the Ministry) endorses this advice on surveillance
+colonoscopy for follow-up after removal of polyps. This advice sets out appropriate
+practice for clinicians to follow subject to their own judgement. It has been developed to
+help them make decisions in this area.
+The advice was developed to align with recent publications from the United Kingdom,
+the United States, Australia and Europe (Cancer Council Australia Surveillance
+Colonoscopy Guidelines Working Party 2019; Gupta, Lieberman et al 2020; Hassan,
+Antonelli et al 2020; Rutter, East et al 2020). These publications, based on updated
+available evidence up to June 2019, indicated that previous guidelines would now
+recommend over surveillance for some groups.
+A technical advisory group with the required expertise was established and has
+undertaken a systematic review of recent literature. Members of the group included a
+range of clinicians and some members of the National Bowel Cancer Working Group
+(NBCWG). Their role was to review the evidence and consider implementation of a
+similar polyp follow-up approach in New Zealand.
+The New Zealand specialists in the technical advisory group are routinely involved in the
+diagnosis, management and surveillance of patients identified to have bowel polyps.
+Acknowledgements go to:  Ian Bissett, Chair of NBCWG, Colorectal surgeon, Department of Surgery, University of
+Auckland  Susan Parry, Gastroenterologist, Clinical Lead of National Bowel Screening
+Programme, Ministry of Health  Campbell White, Physician, Taranaki Base Hospital  Chris Hemmings, Pathologist, Clinical Director of Anatomic Pathology, Canterbury
+Health Laboratories; University of Otago  David Vernon, General surgeon, Lakes District Health Board (DHB)  Marianne Lill, General surgeon, Whanganui DHB  Masato Yozu, Pathologist, Counties Manukau DHB  Russell Walmsley, Gastroenterologist, Waitematā DHB, University of Auckland  Siraj Rajaratnam, Colorectal surgeon, Waitematā DHB  Teresa Chalmers-Watson, Gastroenterologist, Canterbury DHB, University of Otago.
+For New Zealand’s previous Guidance on Surveillance for People at Increased Risk of
+Colorectal Cancer, published in February 2012, go to www.health.govt.nz/publications.
+
+Ensuring an equity focus is a priority for TAoTK and the Ministry. Evidence indicates that
+Māori are less likely to have access to early diagnosis for some cancers, including
+colorectal cancers, than non-Māori. Breaking down barriers for Māori to access
+surveillance colonoscopy will allow a greater proportion of cancers to be detected early
+and managed well, leading to more curative treatment and subsequent improvements in
+survival for Māori patients.
+Note: This document is updating only the polyp surveillance section of the previous
+guidelines. An update on other aspects will also be developed. New Zealand
+colonoscopy capacity is constrained, and we anticipate that these guidelines will reduce
+demand.
+Professor Diana Sarfati
+Chief Executive
+Te Aho o Te Kahu
+Professor Ian Bissett
+Chair
+National Bowel Cancer Working Group
+Dr Susan Parry
+Clinical Lead
+National Bowel Cancer Screening Programme
+
+PURPOSE OF THIS ADVICE
+
+The main purpose of this document is to provide recommendations for surveillance
+after colonoscopy and complete removal of adenomas and serrated polyps. The
+recommendations are the same for initial and subsequent procedures and may, if
+appropriate, be applied to colonoscopy procedures that have been completed before
+we released this guidance.
+Patients outside the scope of this advice are those with hereditary colorectal cancer
+syndromes (for example, Lynch syndrome or Familial Adenomatous Polyposis),
+inflammatory bowel disease, personal history of colorectal cancer, and family history
+that warrants investigation for hereditary colorectal cancer syndromes (Ministry of
+Health 2012).
+
+AUDIENCE FOR THESE
+GUIDELINES
+
+This advice is relevant to clinicians providing colorectal polyp surveillance. All district
+health boards, whether or not they have begun to participate in the National Bowel
+Screening Programme, are expected to offer colonoscopic polyp surveillance in line with
+this advice.
+
+ASSOCIATED DOCUMENTS
+
+Table 1: Associated documents
+Ministry of Health. 2012. Guidance on Surveillance for People at Increased Risk of Colorectal
+Cancer. Retrieved 13 August 2020, from
+
+https://www.health.govt.nz/system/files/documents/publications/colorectal-cancer-
+surveillance-guidance.pdf
+
+Rutter MD, et al. 2020. British Society of Gastroenterology/Association of Coloproctology of Great
+Britain and Ireland/Public Health England post-polypectomy and post-colorectal cancer
+resection surveillance guidelines. Gut 69(2): 201–23.
+Gupta S, et al. 2020. Recommendations for follow-up after colonoscopy and polypectomy: a
+consensus update by the US Multi-Society Task Force on Colorectal Cancer. Gastrointestinal
+Endoscopy 91(3): 463–85. e465.
+
+EQUITY
+
+Survival outcomes for colorectal cancer are significantly poorer for Māori than for non-
+Māori. Comorbidity and difficulties with accessing health services for colon cancer
+
+account for about 30 percent of excess mortality among Māori (Hill, Sarfati, et al 2010).
+Māori and Pacific peoples are also more likely to be diagnosed with advanced disease at
+diagnosis of colorectal cancer and, significantly, are more likely to be diagnosed after
+they present at an emergency department, which may reflect poorer access to primary
+and secondary services (Health Quality & Safety Commission New Zealand 2017). For this
+reason, it is important that clinicians make decisions that contribute to equitable
+outcomes for Māori and Pacific peoples in particular. However, surveillance intervals are
+determined by the biology of premalignant polyps. There is no evidence that adenomas
+and serrated polyps grow faster in Māori and Pacific peoples.
+
+NOTES ON CLINICAL
+CONTEXT
+
+High-quality colonoscopy is the prerequisite for these recommendations. To be of high
+quality, the colonoscopy must involve verified and documented caecal intubation, good
+colonoscopy technique and adequate bowel preparation (see ‘Definitions’ below).
+Surveillance should be adjusted for suboptimal colonoscopy.
+Recommended techniques for polypectomy should be followed and complete polyp
+excision should be performed (see ‘Definitions’ below).
+
+POLYP RISK CATEGORIES
+
+Table 2: Polyp risk categories
+
+Conventional adenomas Serrated polyps
+
+Average-risk
+polyps
+
+Tubular adenomas < 10 mm Sessile serrated lesion (SSA/P) < 10 mm
+Hyperplastic polyp ≥ 10 mm*
+
+High-risk
+polyps
+
+Adenoma ≥ 10 mm**
+Adenoma with tubulovillous
+or villous histology**
+Adenoma with high-grade
+dysplasia**
+
+Sessile serrated lesion (SSA/P) ≥ 10 mm
+Sessile serrated lesion (SSA/P) with dysplasia
+Traditional serrated adenoma
+Serrated adenoma, unclassified (unclassified
+serrated polyp with dysplasia)
+* Follow up as a high-risk polyp if concern exists about consistency in distinction between sessile
+serrated lesion and hyperplastic polyp locally.
+** Advanced adenoma defined as: 10 mm or larger in size or 25% or greater villous histology (that is,
+tubulovillous or villous adenoma) or high-grade dysplasia.
+After piecemeal resection of polyps equal to or greater than 20 mm in size, the site
+should be checked within two to six months and then a further full colonoscopy
+performed after an additional 12 months. Once no recurrence is confirmed patients
+should undergo post polypectomy surveillance after a further interval of three years.
+The need for further surveillance should then be determined in accordance with this
+update and individual risk factors.
+No surveillance is required for anyone who has only hyperplastic polyps smaller than
+10 mm, unless the person meets the criteria for Serrated Polyposis Syndrome.
+
+POLYP SURVEILLANCE
+GUIDANCE 2024
+
+Figure 1 summarises the new guidance after complete removal of adenomas and
+serrated polyps. This advice was developed in recognition of the:
+1. low risk of future colorectal cancer for some groups of patients identified as
+having adenomas
+2. colorectal cancer risk associated with some serrated polyps.
+
+Figure 1. Surveillance intervals based on findings at high-quality colonoscopy:
+summary of figure 1 in text - If there are greater than or equal to 10 adenomas, the patient should have follow up colonoscopy in 1 year.  If the patient has been diagnosed with sessile serrated polyposis syndrome, once they have a colonoscopy with complete clearance of polyps meaning there is documentation that no further polyps were seen on the most recent colonoscopy, they should have another colonoscoyp in 1 year.
+
+If the patient has 5-9 adenomas that are less than 10mm in size, or a single adenoma greater than or equal to 10mm in size, or any tubulovillous or villous adenoma or any adenoma with high grade dysplasia, they need another colonoscopy in 3 years.  In patients with serrated polyps on histology, if they have greater than or equal to 5 polyps that are all less than 10mm in size or any sessile serrated polyp that is greater than or equal to 10mm in size, or any sessile serrated polyp with dysplasia or any serrated adenoma, they need a follow up colonoscopy in 3 years.
+
+If a patient has 3-4 adenomas without any of the high risk features noted above and all of the adenomas are less than 10mm in size, they need a follow up colonoscopy in 5 years.  For patients with serrated polyps, if they have 1-4 sessile serrated polyps that are all less than 10mm in size or a hyperplastic polyp that is greater than or equal to 10mm in size, they need a follow up colonoscopy in 5 years.
+
+If a patient has 1-2 adenomas that are all less than 10mm in size, they need a follow up colonoscopy in 10 years or at an age when they are eligible for National Bowel Screening Program, whichever comes first.
+
+
+* If there are both adenoma <10mm and SSL <10 mm, sum up the numbers and apply follow-up
+interval for SSL.
+** A three-year follow-up interval is favoured if concern about consistency in distinction between
+sessile serrated lesion and hyperplastic polyp locally.
+*** Consider referral to the NZ Familial Gastrointestinal Cancer Service (NZFGCS). Referral criteria for
+multiple adenoma and Serrated Polyposis Syndrome to NZFGCS are provided below.
+
+NBSP: National Bowel Screening Programme
+SSL: Sessile serrated lesion (=sessile serrated adenoma/polyp)
+HGD: High grade dysplasia
+HP: Hyperplastic polyp
+For people older than age 75 years or with significant comorbidities, carefully consider
+potential benefits and risks before offering any routine surveillance.
+This advice needs to be interpreted taking the patient’s family history of bowel cancer
+into account.
+Surveillance colonoscopy should only be performed in people whose life expectancy is
+> 10 years and therefore generally not in people older than 75 years.
+
+DEFINITIONS
+
+High-quality colonoscopy
+The decision on future surveillance can only be made if the colonoscopy was of
+sufficient quality.
+A full description of what constitutes the expected good practice is described in the
+Standards for Individuals Performing BSP colonoscopy (Endoscopy Governance Group
+for New Zealand 2017).
+The basic principles include:
+1. The colonoscopy is performed by a credentialed colonoscopist, as defined by the
+Endoscopy Guidance Group for New Zealand (Endoscopy Guidance Group for New
+Zealand 2018).
+a. The bowel preparation is sufficiently clear, defined as both a; Boston Bowel
+Preparation Score (BBPS) on withdrawal of 6 or higher, with no single
+segment score under 2.
+b. Subjective rating of Excellent or Adequate (the top two categories on the
+drop-down menu from Provation).
+
+2. There is photo documentation of caecal intubation and retro flexion in the
+rectum.
+
+High-quality polypectomy
+Endoscopic polypectomy should ensure complete removal of all neoplastic tissue.
+Polyp size should be measured using the width of a snare (Gupta, Lieberman, et al 2020).
+Morphology of the polyp should be assessed using the PARIS classification and the pit
+pattern interpreted using virtual or chromoendoscopy.
+Removal of polyps assessed to be difficult (e.g. by the Size, Morphology, Site and Access
+criteria) which includes those larger than 2cm should be considered for deferring for an
+appropriately experienced and skilled (Level 4) endoscopist.
+The European Society of Gastrointestinal Endoscopy’s 2017 clinical guideline is the
+current best-practice guideline for performing colonoscopic polypectomy of different
+morphology, size and location (Endoscopy Governance Group for New Zealand 2017;
+Ferlitsch, Moss, et al 2017; Sidhu, Tate, et al 2018).
+
+Boston Bowel Preparation Scale
+The Boston Bowel Preparation Scale (BBPS) is a scale that describes the quality of bowel
+preparation at colonoscopy. The large bowel is divided into three sections: the right
+colon, the transverse colon (including flexures) and the left colon with rectum. Each
+section is scored individually from 0–3 (Rosty, Brosens et al 2019).  0 = Unprepared colon segment with mucosa not seen due to solid stool that cannot
+be cleared.  1 = Portion of mucosa of the colon segment seen, but other areas of the colon
+segment not well seen due to staining, residual stool and/or opaque liquid.  2 = Minor amount of residual staining, small fragments of stool and/or opaque liquid,
+but mucosa of colon segment seen well.  3 = Entire mucosa of colon segment seen well with no residual staining, small
+fragments of stool or opaque liquid.
+These segment scores are summed for a total BBPS score ranging from 0–9.
+
+Serrated Polyposis Syndrome
+The updated World Health Organization criteria for diagnosis are:  Criterion 1: At least 5 serrated polyps proximal to the rectum all ≥5 mm, with at least
+two ≥10 mm.  Criterion 2: More than 20 serrated polyps of any size but distributed throughout the
+large bowel, with at least 5 proximal to the rectum (Dekker, Bleijenberg, et al 2020).
+Any histologic subtype of serrated polyp is included in the final count. The diagnosis
+may require more than one colonoscopy and the polyp count is cumulative over time.
+
+REFERRAL CRITERIA TO THE
+NEW ZEALAND FAMILIAL
+GASTROINTESTINAL CANCER
+SERVICE
+
+Note: These are referral guidelines. A hereditary cause underlying polyposis
+correlates to some extent with the age your patient meets the criteria stated
+below. If you have additional concerns about your patient, you may want to
+refer outside these criteria. There are separate guidelines for individuals with a
+family/whanau history of polyposis/CRC.
+
+Serrated Polyposis Syndrome
+Refer a patient to the New Zealand Familial Gastrointestinal Cancer Service where they
+meet the World Health Organisation (WHO) criteria for a diagnosis of SPS and have one of
+the below features:  Age ≤ 30 yrs  Personal history of colorectal cancer ≤ 50 yrs  First degree relative with CRC ≤ 50yrs or SPS diagnosed ≤ 50yrs  Failing endoscopic management of polyposis and this group includes patients with
+multiple dysplastic SSPs.  10 cumulative adenomas and a diagnosis of SPS.
+Please see the NZFGCS website link for further information regarding
+management of SPS including family/whanau recommendation.
+
+Multiple adenoma
+Refer a patient to the New Zealand Familial Gastrointestinal Cancer Service where they
+have: • 20 cumulative adenomas, or • 10 cumulative adenomas if the patient is aged 30 years or younger, or • 10 cumulative adenomas and a diagnosis of CRC, or • 10 cumulative adenomas and a diagnosis of SPS, or • Family history of colorectal cancer in a number of first degree relative’s or
+diagnosed under age 50 years.
+
+UPDATE ON POLYP GUIDELINES 2024 11
+A concerning family history of CRC or polyposis should prompt consideration of referral
+outside these criteria.
+In some cases outside this above stated referral criteria for multiple colorectal
+adenoma, there may be suggested family/whanau recommendations that apply
+to your patients’ relatives. Please see the NZ Familial GI Cancer Service website
+for details https://www.nzfgcs.co.nz/.
+
+REFERENCES
+
+Cancer Council Australia Surveillance Colonoscopy Guidelines Working Party. 2019.
+Clinical Practice Guidelines for Surveillance Colonoscopy. Retrieved 13 August 2020, from
+https://wiki.cancer.org.au/australia/Guidelines:Colorectal_cancer/Colonoscopy_survei
+llance. Dekker E, et al. 2020. Update on the World Health Organization Criteria for Diagnosis of
+Serrated Polyposis Syndrome. Gastroenterology 158(6): 1520–3.
+Endoscopy Governance Group for New Zealand. 2017. Endoscopy Standards for
+Individual Colonoscopists Performing Bowel Cancer Screening in New Zealand. Retrieved
+
+13 August 2020, from https://endoscopyquality.co.nz/assets/Uploads/EGGNZ-
+Endoscopy-Standards-for-Individual-Colonoscopists-Performing-Bowel-Cancer-
+Screening-in-New-Zealand-Final-v3.0.pdf. Endoscopy Guidance Group for New Zealand. 2018. Guidelines for Local Credentialing in
+
+Adult Endoscopy. Retrieved 13 August 2020.
+Ferlitsch M, et al. 2017. Colorectal polypectomy and endoscopic mucosal resection (EMR):
+European Society of Gastrointestinal Endoscopy (ESGE) clinical guideline. Endoscopy
+49(3): 270–97.
+Gupta S, et al. 2020. Recommendations for follow-up after colonoscopy and
+polypectomy: a consensus update by the US Multi-Society Task Force on Colorectal
+Cancer. Gastrointestinal Endoscopy 91(3): 463–85. e465.
+Hassan C, et al. 2020. Post-polypectomy colonoscopy surveillance: European Society of
+Gastrointestinal Endoscopy (ESGE) Guideline – Update 2020. Endoscopy 52(08): 687–700.
+Health Quality & Safety Commission New Zealand. 19 July 2017. Bowel Cancer. Retrieved
+
+23 November 2020, from https://www.hqsc.govt.nz/our-programmes/health-quality-
+evaluation/projects/atlas-of-healthcare-variation/bowel-cancer/. Hill S, et al. 2010. Survival disparities in indigenous and non-indigenous New Zealanders
+
+with colon cancer: the role of patient comorbidity, treatment and health service factors.
+Journal of Epidemiology & Community Health 64(2): 117–23.
+Ministry of Health. 2012. Guidance on Surveillance for People at Increased Risk of
+Colorectal Cancer. Retrieved 13 August 2020, from
+
+https://www.health.govt.nz/system/files/documents/publications/colorectal-cancer-
+surveillance-guidance.pdf. Rosty C, et al. 2019. Serrated polyposis. WHO Classification of Tumours Editorial Board
+
+Digestive System Tumours. WHO Classification of Tumours series (5th edition). Lyon,
+France: IARC.
+Rutter MD, et al. 2020. British Society of Gastroenterology/Association of Coloproctology
+
+of Great Britain and Ireland/Public Health England post-polypectomy and post-
+colorectal cancer resection surveillance guidelines. Gut 69(2): 201–23.
+
+Sidhu M, et al. 2018. The size, morphology, site, and access score predicts critical
+outcomes of endoscopic mucosal resection in the colon. Endoscopy 50(07): 684–92.

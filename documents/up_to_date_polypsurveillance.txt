@@ -1,0 +1,195 @@
+Sessile serrated polyps and traditional serrated adenomas
+
+●Endoscopic features and histology – SSPs (synonymous with sessile serrated adenoma [SSA]) are more prevalent in the proximal colon. These polyps have a smooth surface sometimes with a "cloud-like appearance," are often flat or sessile, and may be covered with mucus. Histologically, SSPs contain significant architectural, proliferative, and maturation abnormalities and may acquire morphologic evidence of dysplasia [16].
+
+Traditional serrated adenomas (TSAs) are more prevalent in the rectosigmoid colon and may be pedunculated or sessile. TSAs have diffuse but often mild cytologic dysplasia.
+
+●Risk of cancer – SSP frequently exhibit dysplasia. In one study of 110 SSA/Ps, areas of "significant" dysplasia and foci of intramucosal carcinoma (high-grade dysplasia) were found in 37 and 11 percent, respectively [24]. SSPs, particularly those with foci of dysplasia, are considered the likely precursor lesions to sporadic microsatellite instability-high (MSI-H) colon cancer through a molecular pathway characterized by a high frequency of methylation of some CpG islands (CpG island hypermethylation phenotype [CIMP]-positive) (table 2) [25]. The defect may result in hypermethylation of the promoter region of the MMR MLH1 and silencing of gene expression [16,26,27]. Activation of the BRAF oncogene (BRAF V600E mutation) is also a feature of SSA/Ps, as well as many hyperplastic polyps [28,29]. (See "Molecular genetics of colorectal cancer", section on 'Hypermethylation phenotype (CIMP+) pathway'.)
+
+Risk factors for a synchronous advanced adenoma in patients with SSPs include SSP/A size ≥10 mm, location in the proximal colon, and the presence of dysplasia [16,26-29].
+
+●Management – SSPs are managed clinically like adenomatous polyps and complete excision is recommended. However, due to their sessile nature and indistinct borders, special care is needed to ensure their complete removal endoscopically. There is molecular and clinical evidence that these lesions, either through being missed, incompletely removed, or through a more rapid progression from adenoma to cancer, disproportionally contribute to interval CRCs [30]. (See "Endoscopic removal of large colon polyps".)
+
+●Surveillance – The surveillance interval is based on polyp size and histology (table 1).
+
+•In individuals with one to two SSPs <10 mm in size with no dysplasia, we perform surveillance colonoscopy in 5 to 10 years. (See 'Patients without advanced adenomas' below.)
+
+•In individuals with three to four SSPs <10 mm, surveillance colonoscopy is repeated in three to five years. In individuals with 5 to 10 SSPs <10 mm, surveillance colonoscopy is performed in three years.
+
+•Individuals with SSP ≥10 mm, a SSP with dysplasia, or TSA are managed as advanced adenomas with a first surveillance colonoscopy in three years. (See 'Patients with advanced adenomas (≥10 mm, villous histology, or high grade dysplasia)' below.)
+
+Our recommendations are consistent with United States Multi-Society Task Force guidelines (table 1) [23]. Other expert consensus recommendations have suggested earlier colonoscopic follow-up (one- to three-year interval) in individuals with two or more SSP larger than 10 mm and in those with any SSP with cytologic dysplasia [10]. However, prospective data to support the surveillance intervals are lacking and these recommendations are based on expert opinion. (See 'Patients with advanced adenomas (≥10 mm, villous histology, or high grade dysplasia)' below and 'Patients without advanced adenomas' below.)
+
+Serrated polyposis syndrome — Serrated polyposis syndrome (SPS) or hyperplastic polyposis syndrome (HPS) is rare condition characterized by multiple, large, and/or proximal serrated polyps [31,32].
+
+●Endoscopic features and pathology – Polyps in SPS may be large and flat and are often found along the crests of haustral folds. Mucus and residue frequently adhere to the polyps, a characteristic that may make it difficult to discriminate the polyp from the surrounding normal colonic mucosa.
+
+●Genetics – While some patients with SPS carry a mutation in rare polyposis-associated genes including SMAD4, BMPR1A, PTEN, GREM1, RNF43, and MUTYH, these genes are not altered in the majority of individuals with SPS [31,33-35]. RNF43 where mutated has been most closely related to SPS but is still very uncommon. It is unlikely to be a predisposing mutation in the majority of patients [36]. (See "MUTYH-associated polyposis" and "Molecular genetics of colorectal cancer".)
+
+●Malignant potential – Patients with SPS have an increased risk of colorectal cancer [37,38]. In a meta-analysis of 36 studies that included 2788 patients with SPS, the overall risk of CRC was 20 percent (95% CI, 15-25 percent) [39]. CRC risk at the time of diagnosis and during surveillance were 15 percent and 3 percent, respectively. SPS patients also had a high incidence of history of CRC prior to SPS diagnosis (7.0 percent; 95% CI, 4.6-11.7 percent).
+
+This CRC risk is attributable to the presence of serrated polyps with dysplasia, advanced adenomas, and the presence of large or multiple proximal colonic polyps. It is unclear if patients with SPS are also at increased risk for pancreatic cancer [40].
+
+●Diagnosis – A clinical diagnosis of SPS requires the presence of one of the following World Health Organization criteria [41]:
+
+•>20 serrated lesions/polyps of any size, distributed throughout the colon with ≥5 being proximal to the rectum.
+
+•At least five serrated lesions/polyps proximal to the rectum, all being ≥5 mm, with at least two ≥10 mm in size.
+
+Genetic testing is not routinely recommended as the genetic basis of SPS is largely unknown. (See "MUTYH-associated polyposis", section on 'Colonic manifestations' and "MUTYH-associated polyposis", section on 'Diagnosis'.)
+
+●Management – Management strategies for patients with SPS and their families have not been well defined. Polyps ≥1 cm should be resected completely [37]. Subsequent colonoscopy intervals are based on the number and size of polyps, as well as the number of concurrent adenomas, but generally should be performed every one to three years [10,42,43].
+
+Potential indications for colectomy include:
+
+•Documented or suspected CRC.
+
+•Severe symptoms related to colonic neoplasia (eg, severe gastrointestinal bleeding).
+
+•Polyps with high-grade dysplasia or multiple adenomas larger than 6 mm.
+
+•Marked increases in polyp number on consecutive examinations.
+
+•Inability to adequately survey the colon because of multiple diminutive polyps.
+
+•Patient preference to avoid colonoscopic surveillance. The decision to undergo colectomy in such cases requires an informed discussion of the relative risks versus benefits of regular surveillance and polypectomies versus surgical risk of colectomy. Patients with SPS may be at increased risk of missed lesions, incomplete resection, and polypectomy complications given that the polyps are flat and have indistinct color and margins.
+
+In the absence of evidence to guide colorectal screening recommendations for family members, we begin screening first-degree relatives of individuals with SPS around age 40 (or 10 years earlier than the earliest age at presentation of the SPS in the family) [10,31]. We continue surveillance every five years if no polyps are detected.
+
+ADENOMATOUS POLYPS
+
+Adenomas are the most prevalent neoplastic polyps in the colon.
+
+Epidemiology and risk factors — Approximately two-thirds of all colonic polyps are adenomas. Thirty to fifty percent of colons with one adenoma will contain at least one other synchronous adenoma [44].
+
+Increasing age is a risk factor for the development of colonic adenomas and is associated with the development of high-grade dysplasia within an adenoma, independent of size and histology [19,45]. In colorectal cancer screening studies, the prevalence of adenomas is approximately 25 to 30 percent at age 50 years [45-49]. Autopsy studies have found rates as high as 50 percent by age 70 years (figure 1) but only 1 to 4 percent in those in their twenties or thirties [49,50]. Advancing age is also a risk factor for right-sided polyps [51].
+
+An increased body mass index (BMI) is associated with an increased risk of colorectal adenomas. In a meta-analysis of 36 studies, the risk for colorectal adenomas increased by 19 percent for every 5-unit increase in BMI (summary relative risk 1.19; 95% CI 1.13-1.26) [52]. Abdominal obesity, measured by increasing abdominal visceral adipose tissue volume, may be a better predictor than BMI or waist circumference in all adults [53]. Lack of physical activity is also a risk factor [54].
+
+Adenomatous polyps are more common in men, and large adenomas may be more common in African-Americans as compared with other ethnic groups [48,55,56]. In addition, African-Americans may have a higher risk of right-sided colonic adenomas and present with colorectal at a younger age (<50 years of age) [57,58]. (See "Epidemiology and risk factors for colorectal cancer" and "Screening for colorectal cancer: Strategies in patients at average risk".)
+
+Clinical features
+
+Clinical presentation and natural history — Adenomas are generally asymptomatic and are most often detected by colon cancer screening tests. Small adenomas do not typically bleed. The growth rates of adenomatous polyps are variable and do not follow a consistent linear trend. The majority of small polyps exhibit minimal growth (averaging 0.5 mm/year). However, complete regression is uncommon [59]. Only a small minority of adenomas progress to cancer (5 percent or less) over 7 to 10 years. The risk of progression is higher for advanced adenomas (adenoma with high-grade dysplasia, >10 mm in size, or a villous component) [45].
+
+Approximately 5 to 7 percent of patients with adenomas have high-grade dysplasia, and 3 to 5 percent have invasive carcinoma at the time of diagnosis. The proportion of adenomas showing advanced histologic features increases with polyp size from approximately 1 to 2 percent in small adenomas (<5 mm) to 7 to 12 percent for medium-sized adenomas (5 to 10 mm) and 20 to 30 percent for large adenomas (>1 cm) [60-62].
+
+Endoscopic features and classification — The majority of adenomas (60 to 75 percent) are less than 1 cm at endoscopy [19,63]. Based on their gross appearance, adenomas may be pedunculated, sessile, flat, depressed, or excavated.
+
+●Sessile – In a sessile polypoid lesion, the base and the top of the lesion have the same diameter. Large, laterally-spreading adenomas may have a granular appearance, which is characteristic of being benign. If the mucosa is smooth and nongranular, with distortion of the microvasculature as seen in high-definition endoscopy, cancer should be suspected.
+
+●Pedunculated – In pedunculated polyp the base is narrow. A mucosal stalk is interposed between the polyp and the wall (picture 6).
+
+●Flat – Flat lesions are defined as those with a height less than one-half the diameter of the lesion. Up to 27 to 36 percent of adenomas are relatively flat [64-67]. Flat lesions can be difficult to detect on colonoscopy. Some studies have found that flat adenomas tend to be relatively advanced histologically for their size compared with polypoid lesions [65,66,68]. However, their natural history is poorly understood [67].
+
+●Depressed – In depressed lesions the entire thickness of the mucosa in the lesion is often less than that of the adjacent mucosa. Depressed lesions appear to be particularly likely to harbor high-grade dysplasia or be malignant, even if small [68-73]. Up to 1 percent of adenomas are depressed [64-67]. Although flat and depressed adenomas were initially thought to be largely in Asian populations, they have now been shown to occur more frequently than previously recognized in western populations [68,74-77].
+
+The Paris classifications of superficial neoplastic lesions of the gastrointestinal tract can be used to classify adenomas into polypoid and nonpolypoid lesions (figure 2 and table 3) [78].
+
+Endoscopic features suggestive of invasive cancer include friability, induration, and ulceration. On probing, a firm consistency or adherence of the polyp to the underlying tissue is also suggestive of malignancy. Features suggestive of deep submucosa invasion include Narrow Band Imaging International Colorectal Endoscopic (NICE) classification type 3 and the Kudo Classification of type V or VI (figure 3) [79]. Features suggestive of superficial submucosal invasion in a polyp include a nongranular laterally spreading tumor (NG-LST) morphology with sessile shape or depression and granular-LST (G-LST) morphology with a dominant nodule. (See "Endoscopic removal of large colon polyps", section on 'Definitions' and "Endoscopic removal of large colon polyps", section on 'Features suggesting invasive cancer'.)
+
+Histologic features — Adenomas are characterized as tubular, villous, or a mixture of the two [19]. An advanced adenoma is defined as adenomas ≥10 mm in size or with villous components or high-grade dysplasia. While modifications to the presently used definition for advanced adenomas have been proposed (adenoma ≥20 mm or high-grade dysplasia), further validation is required [80].
+
+●Tubular – Tubular adenomas account for more than 80 percent of colonic adenomas. They are characterized by a network of branching adenomatous epithelium (picture 7A-B). To be classified as tubular, the adenoma should have a tubular component of at least 75 percent.
+
+●Villous – Adenomas with >75 percent villous features are termed villous adenomas. Villous adenomas account for 5 to 15 percent of adenomas (image 1 and picture 8). They are characterized by glands that are long and extend straight down from the surface to the center of the polyp (picture 9). To be classified as villous, the adenoma should have a villous component of at least 75 percent.
+
+●Tubulovillous – Adenomas with 25 to 75 percent villous features are considered to be tubulovillous. Tubulovillous adenomas account for 5 to 15 percent of colonic adenomas.
+
+Some degree of dysplasia exists in all adenomas. Based on the degree of dysplasia, polyps are classified as having:
+
+●Low-grade dysplasia
+
+●High-grade dysplasia
+
+High-grade dysplasia (synonymous with intraepithelial carcinoma) represents an intermediate step in the progression from a low-grade dysplasia to cancer. The term is applied to lesions that are confined to the epithelial layer of crypts and lack invasion through the basement membrane into the lamina propria. As there are no lymphatic vessels in the lamina propria, lesions with high grade dysplasia are not associated with metastasis [81,82].
+
+In carcinoma in situ (Tis), or intramucosal adenocarcinoma, cancer cells invade into the lamina propria and may involve but do not penetrate the muscularis mucosa [19,83] (table 4). Many pathologists will not differentiate these features from high-grade dysplasia, especially as there is no need to, either from a biologic or management perspective. Invasive adenocarcinoma extends through the muscularis mucosa into the submucosa and beyond.
+
+Management
+
+Polypectomy — Adenomas should be resected completely. Small adenomas (≤2 mm) may be completely removed using biopsy forceps, while larger adenomas require snare resection, with or without electrocautery or advanced endoscopic resection techniques (eg, endoscopic mucosal resection or endoscopic submucosal dissection) [84]. Cold snaring has the advantage of avoiding full thickness injury to the bowel wall that can accompany diathermy, and minimizes delayed postpolypectomy bleeding. Large sessile adenomas often require piecemeal resection. In cases where endoscopic resection is not possible, surgical resection is required. (See "Endoscopic removal of large colon polyps".)
+
+Pedunculated polyps with features of deep submucosal invasion should undergo endoscopic polypectomy with en bloc resection [79].
+
+Nonpedunculated lesions with features of deep submucosal invasion should be biopsied in the area of surface feature disruption, tattooed if the polyps are not at or near the cecum, and patients should be referred for surgical management [79]. Nonpedunculated polyps with features of superficial submucosal invasion (eg, NG-LST morphology) should ideally be resected en bloc instead of piecemeal. In G-LST with a dominant nodule, the dominant nodule should be resected en bloc. (See 'Endoscopic features and classification' above and "Endoscopic removal of large colon polyps", section on 'Features suggesting invasive cancer'.)
+
+Special populations
+
+Incomplete or piecemeal resection — In patients who have undergone piecemeal resection of a large polyp (≥20 mm) or in whom the completeness of resection is uncertain (regardless of polyp size), we perform a repeat colonoscopy to evaluate the site of excision within six months [42,85,86]. Incomplete polyp resection is thought to be a substantial contributor to interval colorectal cancer [87,88]. The rates of incomplete resection appear to be higher for sessile lesions and increases with polyp size. In one study, the rate of incomplete resection was significantly higher for polyps 10 to 20 mm as compared with polyps 5 to 9 mm (17 versus 7 percent) and for sessile serrated polyps (SSLs) as compared with conventional adenomas (31 versus 7 percent) [89]. (See "Endoscopic removal of large colon polyps".)
+
+High-grade dysplasia or cancer — Polypectomy alone is adequate for polyps with high-grade dysplasia and Tis (carcinoma in situ) (table 4) if the resection margins are free of neoplastic tissue [90]. Subsequent surveillance should be performed at the same interval as for patients with high-risk adenomas. (See 'Patients with advanced adenomas (≥10 mm, villous histology, or high grade dysplasia)' below.)
+
+The management of a polyp containing invasive carcinoma must be individualized. In early-stage (T1) colon cancers, polypectomy alone is usually adequate, particularly in older adults, if the following risk factors for residual cancer and/or nodal metastases are absent [79,91]:
+
+●Poorly differentiated histology
+
+●Lymphovascular invasion (LVI) or perineural invasion (PNI)
+
+●Tumor budding (foci of isolated cancer cells or a cluster of five or fewer cancer cells at the invasive margin of the polyp) [79]
+
+●A positive margin defined as cancer present <2 mm from the resection margin [91]
+
+●Submucosal invasion depth >1 mm [79]
+
+After complete resection of a polyp with cancer, we perform follow-up colonoscopy in three months to check for residual abnormal tissue at the polypectomy site if the polyp was sessile [92]. After one negative follow-up examination, care can revert to standard surveillance as performed for patients with advanced adenomas. (See 'Patients with advanced adenomas (≥10 mm, villous histology, or high grade dysplasia)' below.)
+
+The presence of any one of the risk factors for residual cancer and/or nodal metastases should prompt consideration of surgery. The management of invasive carcinoma in a colorectal polyp and surveillance is discussed in detail separately. (See "Overview of the management of primary colon cancer" and "Surgical resection of primary colon cancer", section on 'Malignant polyp'.)
+
+Surveillance
+
+Risk assessment for subsequent colorectal cancer — Assessment of the patient's risks of developing advanced neoplasia is important in guiding colorectal cancer surveillance. (Related Pathway(s): Colon polyps: Surveillance after colon polyp resection.)
+
+Polyp histology, number, and size are risk factors for metachronous adenomas and colorectal cancer (eg, diagnosed six months after removal of an index cancer or polyp) [93,94]. This was illustrated in a prospective cohort study that included 122,899 participants who underwent flexible sigmoidoscopy or colonoscopy. After a median follow-up of 10 years, there were 491 incident cases of colorectal cancer [95]. Of these, 51 occurred in 6161 individuals with conventional adenomas, 24 in 5918 individuals with serrated polyps, and 427 in 112,107 individuals with no polyp at baseline evaluation. Individuals with advanced adenomas (≥10 mm, high-grade dysplasia, or tubulovillous or villous histology) and large (≥10 mm) serrated polyps had a significantly higher risk of colorectal cancer as compared with those without adenomas (RR 4.1 and 3.3, respectively). There was no significant difference in the risk of colorectal cancer between individuals with nonadvanced adenomas or small serrated polyps and those without adenomas at baseline.
+
+A prospective cohort study included 15,935 participants of a randomized trial of flexible sigmoidoscopy who underwent colonoscopy for abnormal flexible sigmoidoscopy findings [94]. On colonoscopy, 2882 individuals had an advanced adenoma and 5068 had a nonadvanced adenoma. No adenoma was detected in the remaining 7985 individuals. At a median follow-up of approximately 13 years, incidence rates of CRC in individuals with an advanced adenoma, nonadvanced adenoma, and no adenoma at baseline colonoscopy were 20, 9.1, and 7.5 per 10,000 person-years, respectively. Individuals with advanced adenomas had a significantly higher risk of CRC and CRC death as compared with those without adenomas (RR 2.7 and 2.6, respectively). Although there was no significant difference in the risk of CRC between individuals with nonadvanced adenomas and those without adenomas at baseline, the study may have been underpowered to detect a difference.
+
+●Histology – Adenomatous polyps with >25 percent villous histology, high-grade dysplasia or invasive cancer (picture 9) are risk factors for developing metachronous colorectal cancer [60,96]. In some studies, villosity also predicts metachronous advanced adenomas, although villosity is often closely linked with size and is not independently predictive in all studies.
+
+●Number of polyps – Numbers of adenomas at colonoscopy and cumulatively over a lifetime is the most consistent risk factor for metachronous colorectal cancer. Studies suggest that patients with a limited number (one or two) of small, tubular, adenomatous polyps removed do not have an increased risk of advanced neoplasia [97]. In contrast, the presence of one or more advanced adenomas predicts a higher rate of both any and advanced metachronous adenomas [96]. In a pooled analysis of eight prospective studies, the absolute risks of metachronous advanced adenomas, colorectal cancer, and their combination (advanced colorectal neoplasia) within three to five years was higher (24 percent) in patients with >4 adenomas at baseline [98]. The risk for metachronous advanced adenomas increased with the number of adenomas at baseline and was 9, 13, 15, 20, and 24 percent for 1, 2, 3, 4, or ≥5 adenomas at baseline, respectively. The risk of metachronous colon cancer also increases with the number of advanced adenomas [60,96].
+
+●Polyp size – Patients with one or more adenomas ≥10 mm have an increased risk of advanced neoplasia during surveillance as compared with those with no neoplasia or small adenomas [60,97,99-101]. The risk of advanced neoplasia increases with adenoma size. As compared with patients with adenomas <5 mm, those with baseline adenoma(s) 10 to 19 mm and ≥20 mm have a significantly higher risk of advanced neoplasia (8, 16, and 19 percent, respectively) [98]. In another study that included 1287 individuals, those with large adenomas (>1 cm) and proximally located adenomas at baseline colonoscopy were significantly more likely to have recurrent high-risk adenomas during a mean follow-up period of 37 months (odds ration [OR] 2.69; 95% CI, 1.3-5.4 and OR 1.7; 95% CI, 1.0-2.7, respectively) [101].
+
+●Age – The decision to continue post-polypectomy surveillance for individuals older than 75 years should be individualized [102]. Shared decision-making discussions should include an assessment of the risks of incident colorectal cancer, procedure-related risks, comorbidities, and life-expectancy (>5 years).
+
+Patients with advanced adenomas (≥10 mm, villous histology, or high grade dysplasia) — An advanced adenomas is defined as any one of the following:
+
+•Tubular adenoma ≥10 mm or
+
+•Adenoma with villous histology, or high-grade dysplasia of any size
+
+Patients with an advanced adenoma at any examination should have short follow-up intervals for surveillance [23,85].
+
+US multi-society task force recommendations for post-colonoscopy follow-up in average-risk adults with normal colonoscopy or adenomas*
+Table 5
+●First surveillance – Individuals with an advanced adenoma should undergo a first surveillance colonoscopy in three years (table 5) [23]. For adenomas ≥20 mm that have been resected piecemeal, repeat colonoscopy should be performed at six months.
+
+US Multi-Society Task Force on Colorectal Cancer recommendations for second surveillance stratified by adenoma findings at baseline and first surveillance colonoscopy
+Table 6
+●Subsequent surveillance – The timing of the subsequent surveillance colonoscopy is based on the findings of the first surveillance colonoscopy (table 6) [23].
+
+•If no adenomas are found on the first surveillance colonoscopy, the next surveillance colonoscopy should be performed in five years. Patients with an advanced adenoma at any examination appear to remain at high risk for CRC and should have short follow-up interval for all subsequent surveillance colonoscopies [85].
+
+•If the first surveillance colonoscopy is normal (no adenomas, SSP, hyperplastic polyp ≥10 mm, or CRC) or if only one to two tubular adenomas are detected, the next surveillance colonoscopy should be performed at five years.
+
+•If three to four tubular adenomas <10 mm are detected, the next surveillance colonoscopy should be performed in three to five years.
+
+•If an advanced adenoma is detected or 5 to 10 adenomas <10 mm are detected, the next surveillance colonoscopy should be performed in three years.
+
+Patients without advanced adenomas — If only one or two small (<10 mm) tubular adenomas are found on baseline colonoscopy, the first surveillance colonoscopy should be performed in 7 to 10 years (table 5) [23].
+
+The timing of the subsequent surveillance colonoscopy is based on the findings of the first surveillance colonoscopy (table 6):
+
+●If no adenomas are found on the first surveillance colonoscopy, the next surveillance colonoscopy should be performed in 10 years in the absence of other factors associated with increased risk for colorectal cancer (eg, colorectal cancer or a high-risk adenoma in a first-degree relative prior to age 60 years or in two first-degree relatives regardless of age). (See "Screening for colorectal cancer in patients with a family history of colorectal cancer or advanced polyp", section on 'Indications for enhanced screening'.)
+
+●If one to two small adenomas are detected, the next surveillance colonoscopy should be performed in 7 to 10 years.
+
+●If three to four small adenomas are detected, the next surveillance colonoscopy should be performed in three to five years.
+
+●If >10 adenomas are detected on single examination, surveillance colonoscopy should be performed in one year.
+
+●Patients with >10 adenomas on a single examination or >10 cumulative adenomas in their lifetime should also be evaluated for a hereditary colorectal cancer syndrome [23,43].
+
+●If an advanced adenoma is detected or if an individual has 5 to 10 low-risk adenomas, the next surveillance colonoscopy should be performed in three years. Patients with an advanced adenoma at any examination appear to remain at high risk and should have short (eg, three to five years) follow-up interval for all subsequent surveillance colonoscopies [23,85].
+
+Our recommendations are consistent with the United States Multi-Society Task Force guidelines [23]. The European Society of Gastrointestinal Endoscopy (ESGE), the European guidelines for quality assurance in colorectal cancer screening and diagnosis, and Australian guidelines recommend that patients with low-risk adenomas at baseline colonoscopy participate in existing national fecal immunochemical test-based screening programs 10 years after the index colonoscopy [85,103,104]. If no screening program is available, the ESGE recommends colonoscopy 10 years after the index colonoscopy.
