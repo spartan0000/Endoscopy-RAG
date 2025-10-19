@@ -27,15 +27,6 @@ chroma_client = chromadb.PersistentClient(
 protocol_collection = chroma_client.get_or_create_collection(name = 'endoscopy_protocol')
 
 
-def process_documents(filenames: List[str]): #this should do take care of all the documents in the folder
-    for filename in filenames:
-        with open(os.path.join('documents', filename), 'r', encoding = 'utf-8') as f:
-            content = f.read()
-            chunks = document_chunker(content, 800, 100)
-            cache_protocol(chunks, filename.split('.')[0])
-
-
-
 def main():
     user_query = """ """
     query_embedding = get_embedding(user_query)

@@ -25,6 +25,15 @@ chroma_client = chromadb.PersistentClient(
 protocol_collection = chroma_client.get_or_create_collection(name = 'endoscopy_protocol')
 
 
+########################################################################################################################################################
+####IMPORTANT####
+#this is a prototyping project so while the text below would be confidential and protected health information, when prototyping, we will use fake data
+#once we are ready to progress to testing on real patient data, we will have appropriate approvals in place and will use a locally hosted model so that
+#patient data never leaves the hospital network
+#########################################################################################################################################################
+
+
+
 def format_query_json(user_query: str) -> json: 
     system_prompt = """
     summarize the user input that includes medical data on a person's history of colonoscopy procedures and the pathology reports from the polyps that were removed.
