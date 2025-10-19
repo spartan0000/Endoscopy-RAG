@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 load_dotenv()
-OPENAI_API_KEY = os.getenv(openai_api_key)
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
 
 openai_client = OpenAI(api_key = OPENAI_API_KEY)
@@ -151,7 +151,7 @@ def cache_protocol(chunks, collection, source_name):
         )
         
         
-def query_protocol_collection(query_embedding, collection, n_results):
+def query_protocol_collection(query_embedding: List[float], collection, n_results: int) -> List[dict]:
     results = collection.query(query_embeddings = [query_embedding], n_results = n_results)
 
     if results['documents']:
