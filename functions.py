@@ -8,9 +8,9 @@ from chromadb.config import Settings
 from typing import List
 import json
 from dotenv import load_dotenv
+import langchain
 
-
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 load_dotenv()
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
@@ -26,7 +26,7 @@ protocol_collection = chroma_client.get_or_create_collection(name = 'endoscopy_p
 
 
 ########################################################################################################################################################
-####IMPORTANT####
+####IMPORTANT####IMPORTANT####IMPORTANT####IMPORTANT####IMPORTANT####IMPORTANT####IMPORTANT####IMPORTANT####IMPORTANT####IMPORTANT####
 #this is a prototyping project so while the text below would be confidential and protected health information, when prototyping, we will use fake data
 #once we are ready to progress to testing on real patient data, we will have appropriate approvals in place and will use a locally hosted model so that
 #patient data never leaves the hospital network
