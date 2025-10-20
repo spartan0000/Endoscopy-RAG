@@ -185,7 +185,7 @@ def generate_recommendation(db_results: List[dict], user_query: str) -> str:
     db_docs = ''.join(db_results[i]['document'] for i in range(len(db_results)))
 
     response = openai_client.responses.create(
-        model = 'gpt-40-mini',
+        model = 'gpt-4o-mini',
 
         input = [
             {'role': 'system',

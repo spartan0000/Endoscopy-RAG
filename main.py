@@ -28,9 +28,9 @@ protocol_collection = chroma_client.get_or_create_collection(name = 'endoscopy_p
 
 
 def main():
-    user_query = """"""
+    user_query = """this patient has 1 small adenomatous polyp that has no dysplasia and is 3mm in size"""
     query_embedding = get_embedding(user_query)
-    results = query_protocol_collection(query_embedding, n_results = 10)
+    results = query_protocol_collection(query_embedding, protocol_collection, n_results = 10)
     output = generate_recommendation(results, user_query)
     print(output)
     
