@@ -59,7 +59,7 @@ def main():
     log_data = {
         'timestamp': datetime.now().isoformat(),
         'user_query': user_query,
-        'formatted_query': formatted_query,
+        'formatted_query': formatted_query, #the structured json version of the user query
         'database_results': results, #this will have metadatas that includes the source name and the chunk id
         'document_contents': [r['document'][:200] for r in results], #log a snippet of the documents contents for future reference
         'recommendation': output,

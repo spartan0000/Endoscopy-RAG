@@ -28,6 +28,9 @@ chroma_client = chromadb.PersistentClient(
 
 protocol_collection = chroma_client.get_or_create_collection(name = 'endoscopy_protocol')
 
+###Things to consider for future improvements:
+### 1. Add a function to summarize user query to make it more concise for embedding generation
+### 2. Add a function to do semantic chunking of documents instead of just fixed size chunking
 
 
 
@@ -62,11 +65,11 @@ def format_query_json(user_query: str) -> dict:
                             'number of polyps': 0, 
                             },
         'histology': {
-            {'adenoma': 0,
+            {'adenoma': number of adenomas,
             'adenoma_size': 'largest adenoma size in mm',
             'high_grade_dysplasia_in the adenoma': 'yes' or 'no',
             'tubulovillous_or_villous_adenoma': 'yes' or 'no',
-            'sessile_serrated_polyps': 0,
+            'sessile_serrated_polyps': number of sessile serrated polyps,
             'sessile_serrated_polyp_size': 'size of largest sessile serrated polyp',
             'dysplasia_in_the_sessile_serrated_polyp': 'yes' or 'no',
             'hyperplastic_polyp_greater_or_equal_to_10mm_in_size: 'yes' or 'no',
