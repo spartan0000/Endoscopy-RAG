@@ -61,6 +61,7 @@ def main():
         'user_query': user_query,
         'formatted_query': formatted_query,
         'database_results': results, #this will have metadatas that includes the source name and the chunk id
+        'document_contents': [r['document'][:200] for r in results], #log a snippet of the documents contents for future reference
         'recommendation': output,
 
     }
@@ -68,7 +69,7 @@ def main():
     log_entry(log_data)
 
     print(output)
-    
+
     return formatted_query #leave this here for now.  Later we can send this to a file or database to store and retrieve as needed.
 
 if __name__ == "__main__":
