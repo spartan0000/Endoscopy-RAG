@@ -8,8 +8,7 @@
 
 ![](./images/lumbergh.png)
 
-### This is the easy part.  The hard part will be convincing the powers that be (high inertia, highly risk averse) that we should try to implement this
 
-### Either way, it was fun experimenting with this over the weekend!
+### It was fun experimenting with this over the weekend!
 ### More refinements and updates to come...improving the protocol documents, logging and auditing, benchmarks and accuracy
 
