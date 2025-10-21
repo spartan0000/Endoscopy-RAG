@@ -10,6 +10,8 @@ from dotenv import load_dotenv
 import langchain
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
+import logging
+from datetime import datetime
 
 from functions import format_query_json, get_embedding, document_chunker, cache_protocol, query_protocol_collection, generate_recommendation
 
@@ -26,14 +28,48 @@ chroma_client = chromadb.PersistentClient(
 
 protocol_collection = chroma_client.get_or_create_collection(name = 'endoscopy_protocol')
 
+logging.basicConfig(
+    filename = 'logs/audit_logs.jsonl',
+    level = logging.INFO,
+    format = '%(message)s'
+    )
+
+def log_entry(entry: dict):
+    logging.info(json.dumps(entry), ensure_ascii=False)
+
+
 
 def main():
-    user_query = """this patient has 1 small adenomatous polyp that has no dysplasia and is 3mm in size"""
+    #user input or the medical information to be processed
+    user_query = """"""
+
+    #format the user query into structured json
+    formatted_query = format_query_json(user_query)
+    
+    #convert user query to an embedding
     query_embedding = get_embedding(user_query)
+
+    #query the vector database for relevant protocols
     results = query_protocol_collection(query_embedding, protocol_collection, n_results = 10)
+
+    #generate recommendation based on the retrieved protocols and the user query
     output = generate_recommendation(results, user_query)
+
+    #log the interaction
+    log_data = {
+        'timestamp': datetime.now().isoformat(),
+        'user_query': user_query,
+        'formatted_query': formatted_query,
+        'database_results': results, #this will have metadatas that includes the source name and the chunk id
+        'recommendation': output,
+
+    }
+
+    log_entry(log_data)
+
     print(output)
     
+    return formatted_query #leave this here for now.  Later we can send this to a file or database to store and retrieve as needed.
 
 if __name__ == "__main__":
     main()

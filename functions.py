@@ -12,6 +12,10 @@ import langchain
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
+import logging
+from datetime import datetime
+
+
 load_dotenv()
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
@@ -23,6 +27,9 @@ chroma_client = chromadb.PersistentClient(
 )
 
 protocol_collection = chroma_client.get_or_create_collection(name = 'endoscopy_protocol')
+
+
+
 
 
 ########################################################################################################################################################
@@ -91,13 +98,14 @@ def format_query_json(user_query: str) -> dict:
     )
 
     try:
-        json_output = response1.output_text
-        result_json = json.loads(json_output)
+        raw_output = response1.output_text
+        result_json = json.loads(raw_output)
         return result_json
     except json.JSONDecodeError:
         return {'error': 'Failed to parse JSON', 'raw_output': response1.output_text}
 
-
+    
+    
 
 def format_query_summary(user_query: str) -> str:
     system_prompt = """
@@ -195,7 +203,9 @@ def generate_recommendation(db_results: List[dict], user_query: str) -> str:
     system_prompt = """You are a helpful medical assistant who is tasked with making evidence based recommendations for follow up after a colonoscopy
         You will take the user query which includes medical information as well as the protocol that is pulled from the vector database, provide recommendations for follow up that meet the guidelines
         as stated in the documents that are provided.  If it is unclear what the recommendations should be or if the patient's data does not meet any of the criteria in the documents, simply output 
-        'review by surgeon'.  If there is uncertainty between two possible time intervals, choose the shorter one - for example if the choice is between 6 months or 12 months, choose 6 months"""
+        'review by surgeon'. If there is uncertainty between two possible time intervals, choose the shorter one - for example if the choice is between 6 months or 12 months, choose 6 months.
+        Provide a detailed explanation for your recommendation based on the protocols and data provided.
+        """
     
     db_docs = ''.join(db_results[i]['document'] for i in range(len(db_results)))
 
@@ -218,4 +228,3 @@ def generate_recommendation(db_results: List[dict], user_query: str) -> str:
 
     return response.output_text
      
-    
