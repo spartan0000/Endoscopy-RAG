@@ -20,6 +20,9 @@ OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
 from functions import format_query_json, get_embedding, document_chunker, cache_protocol, query_protocol_collection, generate_recommendation
 
+chroma_client = chromadb.PersistentClient(path = './chroma_db')
+protocol_collection = chroma_client.get_or_create_collection(name = 'endoscopy_protocol')
+
 class TestEndoscopyRAG(unittest.TestCase):
 
     def test_embedding(self):
@@ -41,6 +44,15 @@ class TestEndoscopyRAG(unittest.TestCase):
         self.assertIsInstance(chunks, list)
         self.assertGreater(len(chunks), 1)
         self.assertLessEqual(len(chunks[0]), 50)
+
+    def test_query_protocol_collection(self):
+        test_embedding = get_embedding('Test query text')
+        results = query_protocol_collection(test_embedding, protocol_collection, n_results = 5)
+        self.assertIsInstance(results, list)
+        self.assertLessEqual(len(results), 5)
+    
+    
+        
 
         
 
