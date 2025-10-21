@@ -34,40 +34,48 @@ protocol_collection = chroma_client.get_or_create_collection(name = 'endoscopy_p
 
 
 
-def format_query_json(user_query: str) -> json: 
+def format_query_json(user_query: str) -> dict: 
     system_prompt = """
     summarize the user input that includes medical data on a person's history of colonoscopy procedures and the pathology reports from the polyps that were removed.
-    key information includes the dates of the procedure including month, day, and year.
-    Other key information includes the number of polyps, the size of the polyps which is generally reported in millimeters, and the histology of the polyps.  The number, size and histology all needs
-    to be carefully collated into ***JSON output*** with the following schema for each colonoscopy procedure.  The number of polyps, the size of the polyps and the histology can be obtained from the pathology report
-    that is dated on or within 1-2 days of the procedure date.  The ***JSON schema*** is as follows:
-    {'patient name': patient's name,
-    'patient NHI': patient's National Health Identification number,
-    
-        'colonoscopy': {
-                            {'date': date of procedure}, 
-                            {'number of polyps': number of polyps}, 
-                            {'polyp size': {'less than 10mm': number of polyps > 10mm}, {'>= 10mm': number of polyps >= 10mm}},
-                            {'histology': {
-                                {'adenoma': number of adenomas},
-                                {'adenoma size': size of largest adenoma},
-                                {'high grade dysplasia': yes or no},
-                                {'tubulovillous or villous adenoma': yes or no},
-                                {'sessile serrated polyps': number of sessile serrated polyps},
-                                {'sessile serrated polyp size': size of largest sessile serrated polyp'},
-                                {'dysplasia in the sessile serrated polyp': yes or no},
-                                {'hyperplastic polyp greater or equal to 10mm in size: yes or no},
-                            }
-                        }
-                    }
-                }
-        """
+    key information includes the following:
+    - dates of the procedure including month, day, and year.
+    - the number of polyps
+    - the size of the polyps which is generally reported in millimeters - less than 10mm or greater than or equal to 10mm is a useful cutoff
+    - the histology of the polyps.  
+    - for adenomas - the number of polyps and the size of the largest adenoma, whether there is high grade dysplasia (yes/no), whether the adenoma is tubulovillous or villous (yes/no)
+    - for sessile serrated polyps - the number of sessile serrated polyps, the size of the largest sessile serrated polyp, whether there is dysplasia (yes/no)
+    - for hyperplastic polyps - size greater than or equal to 10mm (yes/no)
+    format the output as ***JSON output*** with the following schema for each colonoscopy procedure.  
 
-    user_prompt = f'This is the user prompt - {user_query}'
+    {'patient_name': '',
+    'patient_NHI': '',
+    
+        'colonoscopy': [
+                            {'date': '', 
+                            'number of polyps': 0, 
+                            },
+        'histology': {
+            {'adenoma': 0,
+            'adenoma_size': 'largest adenoma size in mm',
+            'high_grade_dysplasia_in the adenoma': 'yes' or 'no',
+            'tubulovillous_or_villous_adenoma': 'yes' or 'no',
+            'sessile_serrated_polyps': 0,
+            'sessile_serrated_polyp_size': 'size of largest sessile serrated polyp',
+            'dysplasia_in_the_sessile_serrated_polyp': 'yes' or 'no',
+            'hyperplastic_polyp_greater_or_equal_to_10mm_in_size: 'yes' or 'no',
+        }
+    }
+    ]
+}
+    make sure the JSON is properly formatted and can be parsed by a standard JSON parser.
+"""
+
+
+    user_prompt = f'Please format this medical text into structured JSON output - {user_query}'
 
     response1 = openai_client.responses.create(
         model = 'gpt-4o-mini',
-        response_format = {'type':'json_object'},
+        text = {'format': {'type': 'json_object'}},
         input = [
             {
                 'role':'system',
@@ -82,7 +90,14 @@ def format_query_json(user_query: str) -> json:
 
     )
 
-    return response1.output_text
+    try:
+        json_output = response1.output_text
+        result_json = json.loads(json_output)
+        return result_json
+    except json.JSONDecodeError:
+        return {'error': 'Failed to parse JSON', 'raw_output': response1.output_text}
+
+
 
 def format_query_summary(user_query: str) -> str:
     system_prompt = """
@@ -93,7 +108,7 @@ def format_query_summary(user_query: str) -> str:
     patient will next need a colonscopy based on published guidelines
     """
 
-    #still working this out
+    #still working this out but just using the raw user query without any LLM summarization seems to work ok for now
     
     
     

@@ -29,11 +29,19 @@ class TestEndoscopyRAG(unittest.TestCase):
         self.assertGreater(len(embedding), 0)
 
     def test_format_query_json(self):
-        user_query = 'Patient Bob Thebuilder had a colonoscopy on 23-1-2020 with 2 polyps, one was a 5mm adenoma and the other a 12mm sessile serrated polyp.'
+        user_query = 'Patient Bob Thebuilder whose NHI is ABC1234 had a colonoscopy on 23-1-2020 with 2 polyps, one was a 5mm adenoma and the other a 12mm sessile serrated polyp.'
         formatted_json = format_query_json(user_query)
         self.assertIsInstance(formatted_json, dict)
-        self.assertIn('patient name', formatted_json)
+        self.assertIn('patient_name', formatted_json)
         self.assertIn('colonoscopy', formatted_json)
+    
+    def test_document_chunker(self):
+        test_text = 'This is a long text. ' * 100
+        chunks = document_chunker(text = test_text, chunk_size = 50, chunk_overlap = 10)
+        self.assertIsInstance(chunks, list)
+        self.assertGreater(len(chunks), 1)
+        self.assertLessEqual(len(chunks[0]), 50)
+
         
 
 if __name__ == '__main__':
