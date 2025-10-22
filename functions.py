@@ -96,7 +96,7 @@ def format_query_json(user_query: str) -> dict:
                 'content': user_prompt,
             }
         ],
-        temperature = 0.8
+        temperature = 0.1
 
     )
 
@@ -129,7 +129,7 @@ def format_query_summary(user_query: str) -> str:
               'content': user_query}
               
         ],
-        temperature = 0.9
+        temperature = 0.1
     )
 
     return response.output_text
@@ -238,7 +238,7 @@ def generate_recommendation(db_results: List[dict], user_query: str) -> str:
                'content': db_docs,
             }
         ],
-        temperature = 1.0,
+        temperature = 0.0,
     )
 
     return response.output_text
