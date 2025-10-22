@@ -18,7 +18,7 @@ load_dotenv()
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
 
-from functions import format_query_json, get_embedding, document_chunker, cache_protocol, query_protocol_collection, generate_recommendation
+from functions import format_query_json, format_query_summary, get_embedding, document_chunker, cache_protocol, query_protocol_collection, generate_recommendation
 
 chroma_client = chromadb.PersistentClient(path = './chroma_db')
 protocol_collection = chroma_client.get_or_create_collection(name = 'endoscopy_protocol')
@@ -52,7 +52,12 @@ class TestEndoscopyRAG(unittest.TestCase):
         self.assertLessEqual(len(results), 5)
     
     
-        
+    def test_format_query_summary(self): 
+        user_query = 'Patient Bob Thebuilder whose NHI is ABC1234 had a colonoscopy on 22-1-2022 and had 8 polyps removed including a 15mm tubulovillous adenoma with high grade dysplasia' 
+        summary = format_query_summary(user_query)
+        self.assertIsInstance(summary, str)
+        self.assertGreater(len(summary), 0)
+          
 
         
 

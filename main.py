@@ -13,9 +13,12 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 import logging
 from datetime import datetime
 
-from functions import format_query_json, get_embedding, document_chunker, cache_protocol, query_protocol_collection, generate_recommendation
+from functions import format_query_json, format_query_summary, get_embedding, document_chunker, cache_protocol, query_protocol_collection, generate_recommendation
 
-
+### Just using sample patient report in data/ for prototyping - NOT REAL PATIENT DATA
+with open('data/sample_patient_report_1.txt', 'r', encoding = 'utf-8') as f:
+    user_query = f.read()
+###
 load_dotenv()
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
@@ -35,19 +38,19 @@ logging.basicConfig(
     )
 
 def log_entry(entry: dict):
-    logging.info(json.dumps(entry), ensure_ascii=False)
+    logging.info(json.dumps(entry, ensure_ascii=False))
 
 
 
 def main():
     #user input or the medical information to be processed
-    user_query = """"""
+    formatted_summary = format_query_summary(user_query)
 
     #format the user query into structured json
     formatted_query = format_query_json(user_query)
     
     #convert user query to an embedding
-    query_embedding = get_embedding(user_query)
+    query_embedding = get_embedding(formatted_summary)
 
     #query the vector database for relevant protocols
     results = query_protocol_collection(query_embedding, protocol_collection, n_results = 10)

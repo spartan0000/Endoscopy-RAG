@@ -96,7 +96,7 @@ def format_query_json(user_query: str) -> dict:
                 'content': user_prompt,
             }
         ],
-        temperature = 0.5
+        temperature = 0.8
 
     )
 
@@ -112,15 +112,27 @@ def format_query_json(user_query: str) -> dict:
 
 def format_query_summary(user_query: str) -> str:
     system_prompt = """
-    you are a helpful medical assistant who is tasked with providing a detailed summary of the pertinent details of the user input data that references recent colonoscopy procedures,
+    you are a helpful medical assistant who is tasked with providing a detailed summary of only the pertinent details of the user input data that references recent colonoscopy procedures,
     the details from the procedure notes themselves, as well as the histological report from any polyps that were removed during that procedure.  Pertinent information that must be included
-    in the summary are the number of polyps, the types of polyps (such as adenoma (and whether the adenoma is tubulovillous or villous) , sessile serrated polyps, hyperplastic polyps as well as their sizes. 
-    This information must be summarized in significant detail so that it can be used as input for an LLM to query a vector database of follow up protocols to make a determination on when the specific
-    patient will next need a colonscopy based on published guidelines
+    in the summary are the number of polyps, the types of polyps (such as adenoma and whether the adenoma is tubulovillous or villous) , sessile serrated polyps, hyperplastic polyps as well as their sizes. 
+    Regarding the procedure details, the significant findings include the BBPS score and where the scope was advanced to.  Regarding the polyps that are noted, please summarize and reconcile the information
+    on the polyps that is contained within the procedure note as well as the histology report.  DO NOT make any clinical diagnoses or recommendations.
     """
 
-    #still working this out but just using the raw user query without any LLM summarization seems to work ok for now
-    
+    response = openai_client.responses.create(
+        model = 'gpt-4o-mini',
+        input = [
+            {'role': 'system',
+             'content': system_prompt,
+             },
+             {'role': 'user',
+              'content': user_query}
+              
+        ],
+        temperature = 0.9
+    )
+
+    return response.output_text
     
     
     
