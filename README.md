@@ -6,9 +6,13 @@
 ### People suggested I build such a system over the weekend...
 ### So I did.  It's a very basic prototype but as a proof of concept, it works
 
+### ***Important note here - no actual patient information was used in development.  Anything resembling medical data is purely fictional that I made up***
+
 ![](./images/lumbergh.png)
 
 
 ### It was fun experimenting with this over the weekend!
 ### More refinements and updates to come...improving the protocol documents, logging and auditing, benchmarks and accuracy
+
+
 
