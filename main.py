@@ -16,7 +16,7 @@ from datetime import datetime
 from functions import format_query_json, format_query_summary, get_embedding, document_chunker, cache_protocol, query_protocol_collection, generate_recommendation
 
 ### Just using sample patient report in data/ for prototyping - NOT REAL PATIENT DATA
-with open('data/sample_patient_report_1.txt', 'r', encoding = 'utf-8') as f:
+with open('data/sample_patient_report_2.txt', 'r', encoding = 'utf-8') as f:
     user_query = f.read()
 ###
 load_dotenv()
