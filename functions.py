@@ -160,7 +160,8 @@ def semantic_chunker():
     #come back and add this later - might work better for some documents
 
 
-
+### source name would be the filename or some unique identifier for the document
+### in the document processing file, the source name comes from the filename
 def cache_protocol(chunks, collection, source_name):
     documents = []
     embeddings = []
